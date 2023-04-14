@@ -1,0 +1,11 @@
+[package]
+name = "vgpu"
+version = "0.1.0"
+authors = ["Carl Gauthier"]
+edition = "2021"
+description = "Vector graphics for 3D graphic pipelines. Built with `wgpu`"
+license = "MPL-2.0"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
